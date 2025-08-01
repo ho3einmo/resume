@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-01 00:02+0330\n"
+"PO-Revision-Date: 2025-08-01 00:03+0000\n"
+"Last-Translator:   <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Translated-Using: django-rosetta 0.10.2\n"
+
+#: .\index\templates\index\index.html:10
+msgid "Resume"
+msgstr "رزومه"
+
+#: .\index\templates\index\index.html:34
+msgid "About"
+msgstr "درباره"
+
+#: .\index\templates\index\index.html:35 .\index\templates\index\index.html:83
+msgid "Experience"
+msgstr "تجربیات"
+
+#: .\index\templates\index\index.html:36 .\index\templates\index\index.html:99
+msgid "Education"
+msgstr "تحصیلات"
+
+#: .\index\templates\index\index.html:37
+#: .\index\templates\index\index.html:117
+msgid "Skills"
+msgstr "مهارت ها"
+
+#: .\index\templates\index\index.html:38
+#: .\index\templates\index\index.html:139
+msgid "Interests"
+msgstr "علاقه مندی ها"
+
+#: .\index\templates\index\index.html:39
+msgid "Awards"
+msgstr "جوایز"
+
+#: .\index\templates\index\index.html:43 .\index\templates\index\index.html:50
+msgid "Persian"
+msgstr "فارسی"
+
+#: .\index\templates\index\index.html:43 .\index\templates\index\index.html:47
+msgid "English"
+msgstr "انگلیسی"
+
+#: .\index\templates\index\index.html:91
+#: .\index\templates\index\index.html:108
+msgid "Present"
+msgstr "حاضر"
+
+#: .\index\templates\index\index.html:118
+msgid "Programming Languages & Tools"
+msgstr "زبان ها و ابزار های برنامه نویسی"
+
+#: .\index\templates\index\index.html:124
+msgid "Workflow"
+msgstr "جریان کار"
+
+#: .\index\templates\index\index.html:149
+msgid "Awards & Certifications"
+msgstr "جوایز و گواهی نامه ها"
